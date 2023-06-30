@@ -1,15 +1,8 @@
 # awesome-js-lib
-collect awesome js lib
 
-当然，下面是一个基本的分类列表，包含了一些常见的前端库和框架。请注意，这只是一个示例，你可以根据需要进行适当的调整和扩展。
+下面是一个基本的分类列表，包含了一些常见的前端库和框架。
 
-# 前端库分类
-
-## UI组件库
-- [Bootstrap](https://getbootstrap.com/) - 响应式的前端框架，提供了丰富的UI组件和样式。
-- [Ant Design](https://ant.design/) - 企业级的React UI组件库，提供了一套美观、易用的组件。
-- [Material-UI](https://material-ui.com/) - 基于Google Material Design的React组件库。
-- [Element UI](https://element.eleme.cn/) - 基于Vue.js的组件库，具有丰富的UI组件和样式。
+- [UI 组件库](./category/ui-components.md)
 
 ## JavaScript工具库
 - [Lodash](https://lodash.com/) - 一个实用的JavaScript工具库，提供了很多常用的函数方法。
